@@ -1,0 +1,8 @@
+# Type|Category|Amount|Description|Date
+INCOME|Salary|5000.00|Monthly salary|2025-05-01
+EXPENSE|Rent|1200.00|April rent|2025-05-03
+EXPENSE|Food|250.00|Groceries|2025-05-05
+INCOME|Freelance|700.00|Freelance project|2025-05-10
+EXPENSE|Entertainment|150.00|Movies and games|2025-05-12
+INCOME|Salary|50000.00|May Salary|2024-05-01
+EXPENSE|Food|2000.00|Lunch & groceries|2024-05-02
